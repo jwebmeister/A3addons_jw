@@ -1,0 +1,12 @@
+name = "A3config_jw";
+tooltipOwned = "A3config_jw";
+overview = "JWebmeister's config tweaks of vanilla ArmA 3. -Enables aiming of RPG-7 at infantry and aircraft, and to do so more often.";
+picture = "logo_rpgVanilla_jw.paa";
+logoSmall = "logo_rpgVanilla_jw.paa";
+logo = "logo_rpgVanilla_jw.paa";
+logoOver = "logo_rpgVanilla_jw.paa";
+hidePicture = 0;
+hideName = 0;
+actionName = "Website";
+action = "http://steamcommunity.com/id/jwebmeister/myworkshopfiles/";
+author = "JWebmeister";
