@@ -1,6 +1,6 @@
 name = "CUPconfig_jw";
 tooltipOwned = "CUPconfig_jw";
-overview = "JWebmeister's config tweaks of CUP.- Increases likelihood of AI using RPG-7 against infantry and aircraft (from never).";
+overview = "JWebmeister's config tweaks of CUP.";
 picture = "logo_rpgCUP_jw.paa";
 logoSmall = "logo_rpgCUP_jw.paa";
 logo = "logo_rpgCUP_jw.paa";

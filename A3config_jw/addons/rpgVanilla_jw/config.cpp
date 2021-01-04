@@ -5,10 +5,11 @@ class CfgPatches {
         requiredVersion = 2.00;
         requiredAddons[] = {
             "A3_Weapons_F",
-            "A3_Weapons_F_Exp"
+            "A3_Weapons_F_Exp",
+            "A3_Weapons_F_Tank"
         };
-        version = "1.0";
-        versionStr = "1.0";
+        version = "1.1";
+        versionStr = "1.1";
         author = "JWebmeister";
         authorUrl = "http://steamcommunity.com/id/jwebmeister/myworkshopfiles/";
     };
@@ -41,6 +42,22 @@ class CfgAmmo {
     {
         aiAmmoUsageFlags = "64 + 128 + 256 + 512";
         airLock = 1; 
+        allowAgainstInfantry = 1;
+        cost = 30;
+    };
+    class R_PG32V_F : RocketBase {
+        aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+        airLock = 1; 
+        allowAgainstInfantry = 1;
+        cost = 30;
+    };
+    class R_MRAAWS_HEAT_F : RocketBase {
+        aiAmmoUsageFlags = "64 + 128 + 512";
+        allowAgainstInfantry = 1;
+        cost = 30;
+    };
+    class M_SPG9_HEAT : RocketBase {
+        aiAmmoUsageFlags = "64 + 128 + 512";
         allowAgainstInfantry = 1;
         cost = 30;
     };

@@ -1,6 +1,6 @@
 # stingerfixCFP_jw
 
-Fixed loadout of Taliban AA unit, it had the FIM-92F Stinger but not the magazine.
+Fixed loadout of infantry AA units, re-enabling AI's ability to fire the FIM-92 Stinger. They had the FIM-92F Stinger but not its magazine.
 
 --
 

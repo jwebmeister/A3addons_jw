@@ -1,6 +1,6 @@
 name = "CFPconfig_jw";
 tooltipOwned = "CFPconfig_jw";
-overview = "JWebmeister's config tweaks of CFP. -Modified loadout of certain faction (Taliban, Boko Haram) AT units, equipped them with a TBG-7V (increases the likelihood of RPG-7 use against infantry, if CUP config tweaks are loaded).-Fixed loadout of Taliban AA unit, it had the FIM-92F Stinger but not the magazine.";
+overview = "JWebmeister's config tweaks of CFP.";
 picture = "logo_rpgCFP_jw.paa";
 logoSmall = "logo_rpgCFP_jw.paa";
 logo = "logo_rpgCFP_jw.paa";
